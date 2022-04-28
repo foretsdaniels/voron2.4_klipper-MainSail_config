@@ -1,10 +1,11 @@
 # Voron2.4_klipper-MS_config
 Just my MainSailOS and Klipper Configs for my 350mm Voron 2.4
-This is my frist voron build and former Marlin user
-Built from a formbot3d kit. 
-The printer is functional but needs all its panels and skirts
+- This is my frist voron build and former Marlin user
+- Built from a formbot3d kit. 
+- The printer is functional but needs all its panels and skirts
 
 # MODS #
+These are my printers user based mods
 - [PCB Cover](https://github.com/craxoor/VoronMods/tree/master/PCB%20Cover)
 
 # TODO
@@ -23,6 +24,7 @@ The printer is functional but needs all its panels and skirts
 - [RocknRoll](https://github.com/RockNLol/VoronUsers/tree/master/printer_mods/RockNLol/RockNRoll)
 more text should be here!
 
+# Use dictionaries for _USER_VARIABLE #
 # REFED USER VARS #
 Use dictionaries for _USER_VARIABLE
 Like the printer. object _USER_VARIABLES are now grouped in a handful of dictionaries. The big advantage of this is that you can use them like you are used to it. As an example:
