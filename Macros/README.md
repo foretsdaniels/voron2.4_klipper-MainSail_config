@@ -1,5 +1,5 @@
 # Macros #
-Some reff gcodes where use and more to come
+Some referenced macros where used some not and more to come
 # Some Referenced macros #
 <p>from user 120decibell<p>
 <pre><code>
