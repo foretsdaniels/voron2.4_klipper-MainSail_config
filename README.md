@@ -2,4 +2,4 @@
 Just my MainSailOS and Klipper Configs 
 This is my frist voron build and former Marlin user
 
-more test should be here!
+more text should be here!
