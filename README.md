@@ -4,6 +4,8 @@ Just my MainSailOS and Klipper Configs for my 350mm Voron 2.4
 - Built from a formbot3d kit. 
 - The printer is functional but needs all its panels and skirts
 
+Config file is baised on this one >> https://raw.githubusercontent.com/VoronDesign/Voron-2/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
+
 # MODS #
 These are my printers user based mods
 - [PCB Cover](https://github.com/craxoor/VoronMods/tree/master/PCB%20Cover)
