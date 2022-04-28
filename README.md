@@ -1,6 +1,6 @@
 # Voron2.4_klipper-MS_config
 Just my MainSailOS and Klipper Configs for my 350mm Voron 2.4
-- This is my frist voron build and former Marlin user
+- This is my frist voron build and coming from Marlin FW
 - Built from a formbot3d kit. 
 - The printer is functional but needs all its panels and skirts
 
