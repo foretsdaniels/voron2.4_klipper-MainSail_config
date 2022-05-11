@@ -2,7 +2,8 @@
 Just my MainSailOS and Klipper Configs for my 350mm Voron 2.4
 - This is my frist voron build and coming from Marlin FW
 - Built from a formbot3d kit. 
-- The printer is functional but needs all its panels and skirts
+- The printer is working nicely will be moding new exhaust with 120mm fan. added bed fans the help with chamber heating on v3.5.0r2 
+- on version 3.5.1r2 24vDC chamber lights added on pin pb10/he2
 
 Config file is baised on this one >> https://raw.githubusercontent.com/VoronDesign/Voron-2/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
 
