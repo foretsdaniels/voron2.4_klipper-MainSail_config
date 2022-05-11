@@ -4,6 +4,7 @@ Just my MainSailOS and Klipper Configs for my 350mm Voron 2.4
 - Built from a formbot3d kit. 
 - The printer is working nicely will be moding new exhaust with 120mm fan. added bed fans the help with chamber heating on v3.5.0r2 
 - on version 3.5.1r2 24vDC chamber lights added on pin pb10/he2
+- configered ras-pi SPI as a mcu for GPIO exposure to moonraker and klipper 
 
 Config file is baised on this one >> https://raw.githubusercontent.com/VoronDesign/Voron-2/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
 
