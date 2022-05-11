@@ -5,7 +5,7 @@ enable_debug_logging = False
 max_upload_size = 1024
 
 [file_manager]
-config_path = ~/klipper_config
+config_path = /home/pi/klipper_config
 log_path = ~/klipper_logs
 enable_object_processing = False
 
