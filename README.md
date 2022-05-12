@@ -12,6 +12,7 @@ Config file is baised on this one >> https://raw.githubusercontent.com/VoronDesi
 # MODS #
 These are my printers user based mods
 - [PCB Cover](https://github.com/craxoor/VoronMods/tree/master/PCB%20Cover)
+- [120mm Voron v2.4 Exhaust 120mm with 4in Duct Adapter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hergtoler/exhaust_120mm_duct)
 
 # TODO
 - Install Panels, Skirts/Fans & Seal Exhaust Fan
